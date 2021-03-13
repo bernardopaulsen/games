@@ -1,3 +1,9 @@
+"""
+Title      : Snake - Table
+Description: Table module for snake game.
+Author     : Bernardo Paulsen
+Version    : 2.0.0
+"""
 import os
 import random
 from snake import Snake
@@ -40,10 +46,16 @@ class Table():
         return envir
 
     def print(self, time : float):
-        os.system('clear')
+        #os.system('clear')
         envir = self.environment()
+        string = """"""
         for y in envir:
             for x in  y:
-                print(x,end='')
-            print()
-        print(f'{time/60:.0f}:{time%60:.0f}')
+                string += x
+                #print(x,end='')
+            string += '\n'
+            #print()
+        string += f'{time:.2f}'
+        #print(f'{time:.2f}')
+        os.system('clear')
+        print(string)
