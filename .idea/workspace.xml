@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b26e77f-ddec-4796-99c8-d23a7b6270e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/snake/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/table.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake/table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake2/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake2/game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake2/snake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake2/table.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pFOkqUdsUmmad7RC7W8yhM9QSb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b26e77f-ddec-4796-99c8-d23a7b6270e0" name="Default Changelist" comment="" />
+      <created>1614775520925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614775520925</updated>
+    </task>
+    <servers />
+  </component>
+</project>
