@@ -16,7 +16,7 @@ class Game:
     def __init__(self):
         self.players = self.get_players()
         self.table   = Table()
-        self.run()
+        self.vitory  = self.run()
     def get_players(self):
         players = []
         for i in range(2):
@@ -29,12 +29,15 @@ class Game:
         while True:
             for player in self.players:
                 point = int(input(F"{player.name}: enter a number [1,...,9]"))
-                player.add_point(point)
+                if not point:
+                    return None
+                else:
+                    player.add_point(point)
                 self.table.print(self.players)
                 if_win, player = self.check_win()
                 if if_win:
                     print(f"Congratulations {player.name}!")
-                    return None
+                    return player
 
     def check_win(self):
         for player in self.players:

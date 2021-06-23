@@ -1,0 +1,53 @@
+Bom, jogo frog.
+
+
+
+precisa de uma tela aparecendo o jogador e o ambiemte, e o jogador precisa se mover pelo ambiente, que vai ser dinamico tambem.
+
+SOftware Lifecycle
+    Requirements
+    Design
+    Implementation
+    Verification
+    Maintence
+
+WRSPM Model
+    World
+        Vai rodar no meu pc pelo terminal.
+    Requirements
+        Jogo 'frog' que tenha historico de jogos
+            graficos em que tenha o sapo, o ambiente, etc.
+            base de dados para salvar jogos antigos, e jogadores e etc.
+            fases em que aumente a dificuldade com o tempo
+    Specifications
+
+        BASE DE DADOS
+            frog.sql
+                players (id INT, name VARCHAR(50))
+                plays (id INT, player_id INT, survival DECIMAL(6,1))
+        PROGRAMA
+    jogo
+
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Program
+    Machine
